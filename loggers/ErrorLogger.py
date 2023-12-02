@@ -1,4 +1,5 @@
 from loggers.BaseLogger.BaseLogger import BaseLogger
+from loggers.BaseLogger.ILogger.ILogger import ILogger
 import logging
 from os import getenv
 
